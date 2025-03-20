@@ -6,15 +6,13 @@ async function fetchdata() {
   const url = "https://api.freeapi.app/api/v1/public/youtube/videos";
 
   //getting data from api
-  try {
+
     async function getData() {
       const response = await fetch(url);
       const result = await response.json();
       return result;
     }
-  } catch (error) {
-    console.error("Some error occured");
-  }
+
 
   loadBtn.innerText = "loading";
   const data = await getData();
