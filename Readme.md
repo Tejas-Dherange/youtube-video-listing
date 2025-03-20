@@ -54,7 +54,7 @@ A clean and modern web application for browsing YouTube videos. This application
 
 ## Deployment
 
-The application is deployed and can be accessed at: [https://vercel.com/tejas-dheranges-projects/youtube-video-listing/83Qp3ni4AieFbSMuXc6SKsTUmEQk](https://vercel.com/tejas-dheranges-projects/youtube-video-listing/83Qp3ni4AieFbSMuXc6SKsTUmEQk)
+The application is deployed and can be accessed at:https://youtube-video-listing-git-main-tejas-dheranges-projects.vercel.app/
 
 ## Future Enhancements
 
